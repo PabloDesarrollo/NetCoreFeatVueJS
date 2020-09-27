@@ -45,7 +45,6 @@ C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\bin\Debug\netcoreapp2.2\
 C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\bin\Debug\netcoreapp2.2\VueJsFeatNetCore.Views.dll
 C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\bin\Debug\netcoreapp2.2\VueJsFeatNetCore.Views.pdb
 C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\obj\Debug\netcoreapp2.2\VueJsFeatNetCore.csprojAssemblyReference.cache
-C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\obj\Debug\netcoreapp2.2\VueJsFeatNetCore.csproj.CoreCompileInputs.cache
 C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\obj\Debug\netcoreapp2.2\VueJsFeatNetCore.RazorAssemblyInfo.cache
 C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\obj\Debug\netcoreapp2.2\VueJsFeatNetCore.RazorAssemblyInfo.cs
 C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\obj\Debug\netcoreapp2.2\VueJsFeatNetCore.AssemblyInfoInputs.cache
@@ -70,3 +69,4 @@ C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\obj\Debug\netcoreapp2.2\
 C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\obj\Debug\netcoreapp2.2\VueJsFeatNetCore.pdb
 C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\obj\Debug\netcoreapp2.2\VueJsFeatNetCore.genruntimeconfig.cache
 C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\obj\Debug\netcoreapp2.2\VueJsFeatNetCore.csproj.CopyComplete
+C:\Users\Isaac Netero\Documents\GitHub\NetCoreFeatVueJS\obj\Debug\netcoreapp2.2\VueJsFeatNetCore.csproj.CoreCompileInputs.cache
