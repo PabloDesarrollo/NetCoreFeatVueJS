@@ -1,7 +1,13 @@
 ﻿<div class="row">
     <div id="app">
         {{mensaje}}
+
+        <div>{{persona}}</div>
+
     </div>
+
+    
+
 </div>
 
 
@@ -13,7 +19,21 @@
 
         el: "#app", 
         data: {
-            mensaje:"Holi mundo Vue JS"
+            mensaje: "Holi mundo Vue JS", 
+            persona:"carlitos"
+        }, 
+
+        created: function () {
+            this.getPersona(); 
+        },
+
+        methods: {
+
+            getPersona: function () {
+                this.$http.get("https://localhost:44348/api/Persona").then(function (response) {
+                    this.persona = response.body;
+                });
+            }
         }
 
     })
