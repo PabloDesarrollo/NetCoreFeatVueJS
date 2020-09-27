@@ -1,6 +1,25 @@
 ﻿<div class="row">
     <div id="app">
+
+        <div>
         {{mensaje}}
+    </div>
+
+        <div>
+            {{info}}
+        </div>
+
+
+        <div>
+            {{$data}}
+        </div>
+
+
+        <div>
+            <input type="text" name="name" value="" v-model="info" />
+        </div>
+
+
     </div>
 </div>
 
@@ -13,7 +32,8 @@
 
         el: "#app", 
         data: {
-            mensaje:"Holi mundo Vue JS"
+            mensaje: "Holi mundo Vue JS", 
+            info: "Esta es una información"
         }
 
     })
